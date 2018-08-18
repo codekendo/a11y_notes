@@ -4,7 +4,7 @@
 
 ## Info
 
-These are accessbility notes.
+These are accessbility notes.  
 
 
 
@@ -430,3 +430,27 @@ links
 
 links for contrast
 [https://webdev.ink/2018/04/24/Text-Contrast-for-Web-Pages/#wdi-contrast-chart](https://webdev.ink/2018/04/24/Text-Contrast-for-Web-Pages/#wdi-contrast-chart)
+
+These are miniumns:
+text and images of text have a contrast ratio of at least 4.5:1
+large text (over 18 points or 14 point bold has a contrast ratio nof at least 3:1)
+
+Magic number is 7:1 having higher contrast is better (higher left number)
+
+
+check site performance open up audits pane in chrome dev tools
+then use accessbility audits to see failing elements
+
+
+[
+](https://dequeuniversity.com/rules/axe/2.2/color-contrast?application=lighthouse
+)
+
+
+do not just use color as the sole method for convey content or distinguishing visual elements.
+
+do not just use color to indicate links use visual 
+
+http://webaim.org/standards/wcag/checklist#sc1.4.1
+
+use nocoffee extension to check for high contrast.
